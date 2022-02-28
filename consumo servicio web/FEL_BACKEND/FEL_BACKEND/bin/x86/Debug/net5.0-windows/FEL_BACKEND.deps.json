@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FEL_BACKEND/1.0.0": {
+        "runtime": {
+          "FEL_BACKEND.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FEL_BACKEND/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

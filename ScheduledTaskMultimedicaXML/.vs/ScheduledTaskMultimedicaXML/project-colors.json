@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba2f205b-c237-4ac4-9538-a5246c475591": {
+      "ProjectGuid": "ba2f205b-c237-4ac4-9538-a5246c475591",
+      "DisplayName": "ScheduledTaskMultimedicaXML",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

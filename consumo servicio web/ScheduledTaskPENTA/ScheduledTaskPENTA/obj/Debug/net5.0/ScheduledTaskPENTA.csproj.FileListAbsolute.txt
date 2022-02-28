@@ -1,0 +1,16 @@
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\bin\Debug\net5.0\ScheduledTaskPENTA.exe
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\bin\Debug\net5.0\ScheduledTaskPENTA.deps.json
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\bin\Debug\net5.0\ScheduledTaskPENTA.runtimeconfig.json
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\bin\Debug\net5.0\ScheduledTaskPENTA.runtimeconfig.dev.json
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\bin\Debug\net5.0\ScheduledTaskPENTA.dll
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\bin\Debug\net5.0\ref\ScheduledTaskPENTA.dll
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\bin\Debug\net5.0\ScheduledTaskPENTA.pdb
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ScheduledTaskPENTA.csproj.AssemblyReference.cache
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ScheduledTaskPENTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ScheduledTaskPENTA.AssemblyInfoInputs.cache
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ScheduledTaskPENTA.AssemblyInfo.cs
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ScheduledTaskPENTA.csproj.CoreCompileInputs.cache
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ScheduledTaskPENTA.dll
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ref\ScheduledTaskPENTA.dll
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ScheduledTaskPENTA.pdb
+C:\Users\SAPServiceB1C\source\repos\ScheduledTaskPENTA\ScheduledTaskPENTA\obj\Debug\net5.0\ScheduledTaskPENTA.genruntimeconfig.cache

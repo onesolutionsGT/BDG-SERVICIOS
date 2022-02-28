@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEL_AUTO", "FEL_AUTO\FEL_AUTO.csproj", "{CBFD9A91-514C-41D5-8D26-25EE296041F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFD9A91-514C-41D5-8D26-25EE296041F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFD9A91-514C-41D5-8D26-25EE296041F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFD9A91-514C-41D5-8D26-25EE296041F3}.Debug|x86.ActiveCfg = Debug|x86
+		{CBFD9A91-514C-41D5-8D26-25EE296041F3}.Debug|x86.Build.0 = Debug|x86
+		{CBFD9A91-514C-41D5-8D26-25EE296041F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFD9A91-514C-41D5-8D26-25EE296041F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFD9A91-514C-41D5-8D26-25EE296041F3}.Release|x86.ActiveCfg = Release|x86
+		{CBFD9A91-514C-41D5-8D26-25EE296041F3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07958199-148F-4620-8A13-5BA9EF07EF77}
+	EndGlobalSection
+EndGlobal
